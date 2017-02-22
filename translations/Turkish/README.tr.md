@@ -47,7 +47,7 @@ Android'in Gradle eklentisi, Google tarafından durmadan geliştirilmekte ve dep
 
 ### Proje Yapısı
 
-İki seçeneğimiz var: Eski ADT ve Eclipse proje yapısı, ve yeni Gradle & Android studio proje yapısı.Siz yeni olanı seçmelisiniz. Eğer eski yapıyı kullanıyorsunuz, artık onun tarih olduğunu varsayıp yeni yapuya geçirin.
+İki seçeneğimiz var: Eski ADT ve Eclipse proje yapısı, ve yeni Gradle & Android studio proje yapısı.Siz yeni olanı seçmelisiniz. Eğer eski yapıyı kullanıyorsunuz, artık onun tarih olduğunu varsayıp yeni yapıya geçirin.
 
 Eski yapı:
 
